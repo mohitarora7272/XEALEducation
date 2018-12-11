@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.education.xeal.activities.GenerateOtpActivity">
+
+    <TextView
+        android:id="@+id/tvCong"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="150dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textAllCaps="false"
+        android:textColor="@color/colorBlack"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnMoveOn"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_above="@+id/tvBottom"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/move_on_text"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/all_right_reserved_text"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimary"
+        android:textSize="14sp" />
+</RelativeLayout>

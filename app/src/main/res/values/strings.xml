@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">XEAL Education</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="all_right_reserved_text">XEAL Education Services \n All rights reserved</string>
+    <string name="name">Your Name</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="register_text">Register</string>
+    <string name="enter_name">Please Enter Your Name</string>
+    <string name="congratulation_text">Congratulations</string>
+    <string name="success_register_text">You are successfully \n registered with \n XEAL</string>
+    <string name="admission_text">Admission</string>
+    <string name="coaching_text">Coaching</string>
+    <string name="talent_hunt_text">Talent Hunt</string>
+    <string name="notification_text">Notifications</string>
+    <string name="make_payment_text">Make Payment</string>
+    <string name="social_networks_text">Social Networks</string>
+    <string name="email">Your Email</string>
+    <string name="enter_message">Type Your Message</string>
+    <string name="send_text">Send</string>
+
+    <string name="admission_full_text">We do admissions in colleges across India, Europe, Bangladesh, Krygzstan, Russia, China, Lithuania, Lativa, Czeh Republic, Iran, Poland, Kazakistan, Germany, England, Ireland, Lativa, Australia, USA, Malaysia, Singapore, Dubai etc. in courses ranging from BTECH, BDS, MBBS, BBA, MBA to Aviatation, Aeronautical, Astrophysics, Astonomics etc. We place around 2500 candidates on an average in universities across globe every year. We have over a decade of experience in admissions and have placed more than 50,000 students in their respective colleges and universities so far. Our students are serving as heads of the department in various government and private organisations. We feel proud to see our students serving and delivering.\n\nList of courses we deal in or the universities we place students in, is long therefore it is not possible for us to enumerate all of them over here in this app. It is advisable for you to come to our office to get information related to any college, university or course, fee structure. You can also visit us to simply get to know which course is more suited to you based upon your personality type and career interests. We have a fleet of highly trained professionals in the field of career counselling, ready to guide you.\n\nIn India we do admissions in cities like Banglore, Pune, Chennai, Delhi, Delhi NCR, Chandigarh, Amritsar, Bathinda, Dehradun etc. Our students are studying in colleges like RV, BMS, Dayanand Sager Institutes, PES, Presidency , REVA University, Bharti Vidyapeeth, Dy-Patil, Sinhgad, Sharda University, Amity University, Lovely Professional University. Help us to guide you by simply filling in your query. We will reach you back.</string>
+    <string name="coaching_full_text">We have a coaching institute under the name of XEAL Classes. We run courses from class 9th, 10th 11th 12th NEET &amp; JEE. Faculty members are highly trained and motivated. We have crash courses for JEE and NEET for 3 months. Other courses run for 7 months, starting from December till June. We have multimedia classrooms, digital attendance system, CCTV’s are installed in entire coaching premise, Tests are conducted on weekly basis, and results are mailed to parents to double students performance. We follow a reward system model of education. Those who excel are properly awarded by providing scholarship and other benefits.\n\nTo know more about XEAL Classes, Place a query.</string>
+    <string name="talent_hunt_full_text">We conduct talent hunt every year in Schools and Colleges across valley. We do it for free of cost in first stage to spread awareness about OMR test sheets. We do this under our coporate social responsibilities initiative. We also conduct easy competition in lower classes starting from 7th to 10th. This gives an exposure to the candidates at various levels and prepares them for competitive future. We also conduct inter school level Talent Hunt Tests and reward toppers with prizes and certificates.</string>
+
+    <string name="pay_text">Pay</string>
+    <string name="facebook_text">Facebook</string>
+    <string name="twitter_text">Twitter</string>
+    <string name="instagram_text">Instagram</string>
+    <string name="whatsapp_text">WhatsApp</string>
+    <string name="telegram_text">Telegram</string>
+    <string name="google_plus_text">Google Plus</string>
+    <string name="email_xeal">Email XEAL</string>
+    <string name="amount">Amount</string>
+    <string name="purpose_of_payment">Purpose of Payment</string>
+    <string name="notification_turn_on">Turn on pop-up notifications</string>
+
+    <string name="thanks_text">Thanks You!</string>
+    <string name="made_payment">\n You have Successfully made payment \n of rupees </string>
+    <string name="for_text">for</string>
+    <string name="thanks_text1">\n Your UTR no. is </string>
+    <string name="thanks_text2">\n Kindly take a screenshot of this screen for \n future references.</string>
+
+    <string name="enter_email">Enter Your Email</string>
+    <string name="no_email_client_installed">There is no email client installed.</string>
+    <string name="no_telegram_client_installed">There is no Telegram installed.</string>
+    <string name="no_whats_app_client_installed">There is no WhatsApp installed.</string>
+    <string name="enter_amount">Enter Some Amount</string>
+    <string name="enter_purpose">Enter Purpose Of Payment</string>
+    <string name="payment_failed_cancelled">Payment Failed | Cancelled.</string>
+    <string name="enter_mobile_number">Please Enter Mobile Number</string>
+    <string name="book_my_admission_text">Book My Admission</string>
+    <string name="college_text">College/University</string>
+    <string name="course_text">Course</string>
+    <string name="enter_description">Description</string>
+    <string name="enter_college_name">Enter College Name</string>
+    <string name="enter_course_name">Enter Course Name</string>
+    <string name="enter_ten_digit_number">Please Enter 10 Digit Mobile Number</string>
+    <string name="move_on_text">Lets Move On</string>
+    <string name="internet_not_available">Please check your internet</string>
+    <string name="no_call_client_installed">No Call Client Installed</string>
+    <string name="call_permission">Please enable permission for phone call in your phone Setting</string>
+    <string name="no_sms_client_installed">No Sms Client Installed</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="finish_send_sms">Finished sending SMS…</string>
+    <string name="failed_send_sms">SMS faild, please try again later.</string>
+    <string name="not_found">Notification Not Available</string>
+    <string name="education">Education</string>
+    <string name="enter_valid_email">Please Enter Valid Email</string>
+    <string name="not_generate_key_hash">Could not generate hash</string>
+    <string name="xeal_admissions_url">http://www.xealadmissions.com/</string>
+
+</resources>
